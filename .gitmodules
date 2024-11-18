@@ -1,0 +1,6 @@
+[submodule "external code/MotionMapper"]
+	path = external code/MotionMapper
+	url = https://github.com/gordonberman/MotionMapper.git
+[submodule "external code/CDMFFD"]
+	path = external code/CDMFFD
+	url = https://github.com/contact-rui-wu/cdmffd-image-registration.git
