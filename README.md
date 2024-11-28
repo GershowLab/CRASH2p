@@ -12,7 +12,7 @@ This repository contains data analysis codes used in the paper [McNulty, Wu, et.
 
 ### Sample data and demo
 
-Start with the script `demo_hyperscope_pipeline` under the root folder. Sample datasets can be found in the Dataverse repository accompanying our paper: https://dataverse.harvard.edu/dataverse/crash2p.
+Start with the script `demo_hyperscope_pipeline` under the root folder. Sample datasets can be found in the Dataverse repository accompanying our paper: https://doi.org/10.7910/DVN/ZNJ8U9.
 
 # Citation
 
