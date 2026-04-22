@@ -1,6 +1,6 @@
 # Closed-loop Resonant Axial-Scanning High-speed 2-photon (CRASH2p) microscopy data analysis
 
-This repository contains data analysis codes used in the paper [McNulty, Wu, et. al., 2024](https://doi.org/10.1101/2024.05.22.595209).
+This repository contains data analysis codes used in the paper [McNulty, Wu, et. al., 2025](https://doi.org/10.1038/s41467-025-60648-x).
 
 # Getting Started
 
@@ -18,7 +18,7 @@ Start with the script `demo_hyperscope_pipeline` under the root folder. Sample d
 
 If you use codes provided in this repository, please cite:
 
-> McNulty, P., Wu, R., Yamaguchi, A., Heckscher, E. S., Haas, A., Nwankpa, A., Mihovilovic Skanata, M., & Gershow, M. (2024). CRASH2p: Closed-loop Two Photon Imaging in Freely Moving Animals. *bioRxiv*, 2024-05. [[paper]](https://doi.org/10.1101/2024.05.22.595209)
+> McNulty, P., Wu, R., Yamaguchi, A., Heckscher, E. S., Haas, A., Nwankpa, A., ... & Gershow, A. M. (2025). Closed-loop two-photon functional imaging in a freely moving animal. Nature Communications, 16(1), 5950. [[paper]](https://doi.org/10.1038/s41467-025-60648-x)
 > 
 
 # License
